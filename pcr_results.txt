@@ -1,0 +1,10 @@
+1234 John Smith negative 08-10-2021
+0768 Sarah Kent positive 09-10-2021
+0058 Kevin Durant positive 01-10-2021
+8325 Lara Craft negative 20-09-2021
+2470 Kirk Hammet negative 18-09-2021
+5866 David Bowie negative 10-09-2021
+1111 Elvis Prisley negative 02-09-2021
+8977 Patty Smith negative 22-08-2021
+6661 Elton John negative 20-08-2021
+8855 Alexander Michailov positive 01-08-2021
